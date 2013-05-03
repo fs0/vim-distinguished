@@ -55,7 +55,7 @@ call s:ColorDictParser({
     \ , 'StatusLine'                  : [    231,    236,           'bold',      'ffffff',  '303030',           'bold']
     \ , 'StatusLineNC'                : [    244,    232,               '',      '808080',  '080808',               '']
     \
-    \ , 'LineNr'                      : [    243,    235,               '',      '767676',  '262626',               '']
+    \ , 'LineNr'                      : [    243,     '',               '',      '767676',  '262626',               '']
     \ , 'VertSplit'                   : [    240,     '',               '',      '585858',  '1c1c1c',               '']
     \
     \ , 'WildMenu'                    : [    234,    231,               '',      '1c1c1c',  'ffffff',               '']
@@ -67,10 +67,10 @@ call s:ColorDictParser({
     \ , 'WarningMsg'                  : [    202,     '',           'bold',      'ff5f00',        '',           'bold']
     \ , 'ErrorMsg'                    : [    196,     '',           'bold',      'ff0000',        '',           'bold']
     \
-    \ , 'Comment'                     : [    243,    233,               '',      '767676',  '121212',               '']
-    \ , 'vimCommentTitleLeader'       : [    250,    233,               '',      'bcbcbc',  '121212',               '']
-    \ , 'vimCommentTitle'             : [    250,    233,               '',      'bcbcbc',  '121212',               '']
-    \ , 'vimCommentString'            : [    245,    233,               '',      '8a8a8a',  '121212',               '']
+    \ , 'Comment'                     : [    243,     '',               '',      '767676',  '121212',               '']
+    \ , 'vimCommentTitleLeader'       : [    250,     '',               '',      'bcbcbc',  '121212',               '']
+    \ , 'vimCommentTitle'             : [    250,     '',               '',      'bcbcbc',  '121212',               '']
+    \ , 'vimCommentString'            : [    245,     '',               '',      '8a8a8a',  '121212',               '']
     \
     \ , 'TabLine'                     : [    231,    238,               '',      'ffffff',  '444444',               '']
     \ , 'TabLineSel'                  : [    255,     '',           'bold',      'eeeeee',        '',           'bold']
