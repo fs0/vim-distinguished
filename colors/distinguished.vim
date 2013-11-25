@@ -43,7 +43,7 @@ call s:ColorDictParser({
     \ , 'Cursor'                      : [     '',     '',               '',      'ffffff',  'dd4010',               '']
     \ , 'lCursor'                     : [     '',     '',               '',      'ffffff',  '89b6e2',               '']
     \
-    \ , 'CursorLine'                  : [     '',    236,               '',            '',  '3a3a3a',               '']
+    \ , 'CursorLine'                  : [     '',     '',               '',            '',  '3a3a3a',               '']
     \ , 'CursorLineNr'                : [    231,    240,               '',      'ffffff',  '585858',               '']
     \ , 'CursorColumn'                : [    231,    237,               '',      'ffffff',  '3a3a3a',               '']
     \
